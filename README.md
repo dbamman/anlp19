@@ -1,1 +1,6 @@
 Course materials for Applied Natural Language Processing (Spring 2019)
+
+| Date | Activity                                                     | Summary                                                                                                                                                                                                                                          |
+|------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1/22 | Follow setup instructions in 0.setup/                        | Install anaconda and set up environment for class with specific Python libraries.                                                                                                                                                                |
+| 1/24 | Complete 1.words/ExploreTokenization_TODO.ipynb before class | This notebook outlines several methods for tokenizing text into words (and sentences), including whitespace, nltk (Penn Treebank tokenizer), nltk (Twitter-aware), spaCy, and custom regular expressions, highlighting differences between them. |
