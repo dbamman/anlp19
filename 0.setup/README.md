@@ -45,3 +45,9 @@ That's it! Whenever you're ready to use a Jupyter notebook in this setup, open u
 source activate anlp
 jupyter notebook
 ```
+
+We'll be using Jupyter notebooks extensively in this class; if you're new to them, check out the tutorial here:
+
+* [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
+
