@@ -50,4 +50,15 @@ We'll be using Jupyter notebooks extensively in this class; if you're new to the
 
 * [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
+If you haven't used Github before, you'll just need it to pull course materials (notebooks, data) from the anlp repo.
+
+* [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* ` git clone git@github.com:dbamman/anlp19.git`
+* Whenever you want to update your local copy: `git pull`
+
+See here for an intro to Git/Github:
+
+
+* https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 
