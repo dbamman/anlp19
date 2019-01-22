@@ -18,7 +18,7 @@ source activate anlp
 ```sh
 python --version 
 ```
-https://conda.io/docs/user-guide/getting-started.html#managing-envs
+https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 # Install packages
 
