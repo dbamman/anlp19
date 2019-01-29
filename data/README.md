@@ -1,9 +1,5 @@
 # Data
 
-## trump_tweets.json 
-
-A dump of Trump's tweets from http://www.trumptwitterarchive.com/archive, downloaded 1/19/19.
-
 ## {dem,repub}.convote.txt
 
 Congressional speech data from http://www.cs.cornell.edu/home/llee/data/convote.html.  Original data processed to yield these files with the following commands:
@@ -19,3 +15,15 @@ A sample of 1000 documents + {pos,neg} sentiment labels from the Large Movie Rev
 ## darwin_origin_ia.txt
 
 OCR'd text of Darwin's Origin of Species, from the Internet Archive https://archive.org/download/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt
+
+## trump_tweets.json 
+
+A dump of tweets by @realdonaldtrump (Donald Trump) from http://www.trumptwitterarchive.com/archive, downloaded 1/19/19.  [Note this class only uses Twitter data from verified public figures.]
+
+## aoc_tweets.json
+
+A dump of tweets by @AOC (Alexandria Ocasio-Cortez), downloaded 1/24/19. [Note this class only uses Twitter data from verified public figures.]
+
+## AFINN-111.txt
+
+Sentiment lexicon of 2,477 English terms, rated -5 (most negative) to 5 (most positive).  Original data here: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
