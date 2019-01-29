@@ -29,6 +29,8 @@ conda install nb_conda=2.2.1
 conda install nltk=3.4
 conda install spacy=2.0.12
 conda install scikit-learn=0.20.2
+conda install pandas=0.24.0
+conda install matplotlib=3.0.2
 ```
 
 # Install spaCy English model
