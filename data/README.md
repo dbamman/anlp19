@@ -18,11 +18,11 @@ OCR'd text of Darwin's Origin of Species, from the Internet Archive https://arch
 
 ## trump_tweets.json 
 
-A dump of tweets by @realdonaldtrump from http://www.trumptwitterarchive.com/archive, downloaded 1/19/19.  [Note this class only uses Twitter data from verified public figures.]
+A dump of tweets by @realdonaldtrump (Donald Trump) from http://www.trumptwitterarchive.com/archive, downloaded 1/19/19.  [Note this class only uses Twitter data from verified public figures.]
 
 ## aoc_tweets.json
 
-A dump of tweets by @AOC, downloaded 1/24/19. [Note this class only uses Twitter data from verified public figures.]
+A dump of tweets by @AOC (Alexandria Ocasio-Cortez), downloaded 1/24/19. [Note this class only uses Twitter data from verified public figures.]
 
 ## AFINN-111.txt
 
