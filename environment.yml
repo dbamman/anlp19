@@ -2,7 +2,7 @@ name: anlp
 channels:
   - defaults
 dependencies:
-  - nltk=nltk=3.4
+  - nltk=3.4
   - spacy=2.0.12
   - scikit-learn=0.20.2
   - pandas=0.24.0
