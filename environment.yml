@@ -8,4 +8,7 @@ dependencies:
   - pandas=0.24.0
   - matplotlib=3.0.2
   - gensim=3.4.0
+  - pip:
+    - tensorflow==1.13.0-rc2
+    - keras==2.2.4
 
