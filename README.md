@@ -42,3 +42,4 @@ Syllabus: http://people.ischool.berkeley.edu/~dbamman/info256.html
 |15.coref/ExtractTimeline.ipynb|Use coreference resolution for the task of timeline generation: for a given biography on Wikipedia, can you extract all of the events associated with the people mentioned and create one timeline for each person?|
 |16.ie/DependencyPatterns.ipynb|Measuring common dependency paths between two entities that hold a given relation to each other |
 |16.ie/EntityLinking.ipynb|Explore named entity disambiguation and entity linking to Wikipedia pages. |
+|17.clustering/TopicModeling_TODO.ipynb|Explore topic modeling to discover broad themes in a collection of movie summaries.|
